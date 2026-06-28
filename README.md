@@ -1,4 +1,7 @@
-# 📊 Credit Card Fraud Analysis Dashboard
+# 📊 Credit Card Fraud Analysis Dashboar
+
+<img width="600" height="332" alt="Screenshot 2026-06-26 123600" src="https://github.com/user-attachments/assets/950d23da-abef-46fa-9eeb-04ec67f23c6d" />
+
 
 An interactive **Power BI Dashboard** designed to analyze credit card fraud patterns, monitor fraudulent transactions, and provide actionable business insights through interactive visualizations.
 
